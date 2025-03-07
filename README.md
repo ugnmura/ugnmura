@@ -1,4 +1,4 @@
-[![Banner](images/banner.jpg)](https://github.com/SushiWaUmai)
+[![Banner](images/banner.png)](https://github.com/ugnmura)
 
 <h1 align="center">
 Hi there, I'm Eugene! 👋
@@ -7,4 +7,4 @@ Hi there, I'm Eugene! 👋
 Random guy on GitHub, love to make stuff with TypeScript and Go.
 
 
-You can see my technologies I learned and planned to learn on my [Technologies-To-Learn](https://github.com/SushiWaUmai/Technologies-To-Learn) repository.
+You can see my technologies I learned and planned to learn on my [Technologies-To-Learn](https://github.com/ugnmura/Technologies-To-Learn) repository.
